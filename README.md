@@ -7,9 +7,7 @@ Este proyecto es el frontend de un mini-módulo de planificación de visitas par
 - **Node.js**: Asegúrate de tener Node.js instalado en tu máquina. Puedes verificarlo ejecutando:
   ```bash
   node -v
-
-
-
+  ```
 
 ## Instalación y Ejecución
 
